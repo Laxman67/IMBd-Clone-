@@ -6,7 +6,7 @@ export default function Home() {
       <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
 
 
-        <h1>HELLO NEXTJs</h1>
+        <h1 className="bg-green-500 p-4 rounded">HELLO NEXTJs</h1>
 
       </main>
 
